@@ -2,3 +2,4 @@ still empty yigermal, This is only for learning git, how to push, pull, fetch, m
 By using ssh-keygen
 
 continued learning git@github
+still learning
